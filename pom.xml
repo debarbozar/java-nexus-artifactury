@@ -15,7 +15,6 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-
   <distributionManagement>
     <repository>
       <id>releases</id>
@@ -26,4 +25,5 @@
       <id>snapshots</id>
       <url>http://localhost:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
+  </distributionManagement>
 </project>
