@@ -16,11 +16,11 @@ Este projeto demonstra como configurar um ambiente de integração contínua (CI
 ```
 /java-ci
 │── .github/workflows/ci.yml
-│── src/main/java/HelloWorld.java
+│── src/main/java/App.java
 │── pom.xml
 ```
 
-## Instação e Configurações Windows
+## Instalação e Configurações Windows
 
 ### Maven
 - Baixe o Apache Maven.
