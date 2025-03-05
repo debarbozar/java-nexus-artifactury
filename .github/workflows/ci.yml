@@ -20,7 +20,7 @@ jobs:
           java-version: '17'
 
       - name: Compilar e testar
-        run: mvn clean install
+        run: mvn clean install -U
 
       - name: Publicar no Nexus
         env:
